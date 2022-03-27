@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="tNama">Masukkan Nama</string>
+    <string name="tPassword">Masukkan Password</string>
+    <string name="bSignIn">SIGN IN</string>
+    <string name="lregister">Register</string>
+    <string name="enama">masukkan nama</string>
+    <string name="eemail">masukkan email</string>
+    <string name="epass">masukkan password</string>
+    <string name="erepass">masukkan pasword</string>
+    <string name="bRegister">Register</string>
+    <string name="txnamaUser">Nama User</string>
+    <string name="eTask">Masukkan Task</string>
+    <string name="eJenis">Masukkan Jenis Task</string>
+    <string name="eLama">Masukkan Lama Task</string>
+    <string name="mnSubmit">Submit</string>
+    <string name="mnLogout">Log Out</string>
+    <string name="hslTask">Catatan Task</string>
+    <string name="hslJenis">Catatan Jenis Task</string>
+    <string name="hslLama">Catatan Lama Task</string>
+</resources>
